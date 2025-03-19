@@ -1,6 +1,6 @@
 package com.example.graphQL.service;
 
-import com.example.graphQL.Repository.PostRepository;
+import com.example.graphQL.repository.PostRepository;
 import com.example.graphQL.entity.Post;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
